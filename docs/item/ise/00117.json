@@ -1,0 +1,46 @@
+{
+    "attribution": "新編 日本古典文学全集",
+    "label": [
+        "りけり。さてよめる。",
+        "人しれぬわが通ひ路の関守はよひよひごとにうちも寝な",
+        "なむ。",
+        "よめりければ、いといたう心やみけり。あるじ許してけり。",
+        "条の后に忍びて参りけるを、世の聞えありければ、兄たち",
+        "守らせたまひけるとぞ。",
+        "lt;六　芥河&gt;",
+        "むかし、男ありけり。",
+        "のえ得まじかりけるを、",
+        "を経てよばひわたりけ",
+        "を、からうじて盗みい",
+        "て、いと暗きに来けり。",
+        "河といふ河を率ていき",
+        "れば、草の上に置きた"
+    ],
+    "objectID": "00117",
+    "page": 117,
+    "related": {
+        "ndl_1288457": [
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/8",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000008/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 8,
+                "type": "コマ"
+            },
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/9",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000009/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 9,
+                "type": "コマ"
+            }
+        ]
+    },
+    "target": "ise",
+    "text": "りけり。さてよめる。\n人しれぬわが通ひ路の関守はよひよひごとにうちも寝な\nなむ。\nよめりければ、いといたう心やみけり。あるじ許してけり。\n条の后に忍びて参りけるを、世の聞えありければ、兄たち\n守らせたまひけるとぞ。\nlt;六　芥河&gt;\nむかし、男ありけり。\nのえ得まじかりけるを、\nを経てよばひわたりけ\nを、からうじて盗みい\nて、いと暗きに来けり。\n河といふ河を率ていき\nれば、草の上に置きた",
+    "type": "ページ",
+    "vol": 1,
+    "vol_str": "01 伊勢物語"
+}

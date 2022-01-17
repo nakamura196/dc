@@ -1,0 +1,45 @@
+{
+    "attribution": "新編 日本古典文学全集",
+    "label": [
+        "よみてやれりければ、みのもかさも取りあへで、しとどに",
+        "れてまどひ来にけり。",
+        "lt;百八　浪こす岩&gt;",
+        "むかし、女、人の心を恨みて、",
+        "風吹けばとはに浪こす岩なれやわが衣手のかはくときな",
+        "き",
+        "、つねのことぐさにいひけるを、聞きおひける男、",
+        "宵ごとにかはづのあまた鳴く田には水こそまされ雨はふ",
+        "らねど",
+        "lt;百九　人こそあだに&gt;",
+        "むかし、男、友だちの人を失へるがもとにやりける。",
+        "花よりも人こそあだになりにけれいづれをさきに恋ひむ",
+        "とか見し"
+    ],
+    "objectID": "00207",
+    "page": 207,
+    "related": {
+        "ndl_1288457": [
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/34",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000034/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 34,
+                "type": "コマ"
+            },
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/35",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000035/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 35,
+                "type": "コマ"
+            }
+        ]
+    },
+    "target": "ise",
+    "text": "よみてやれりければ、みのもかさも取りあへで、しとどに\nれてまどひ来にけり。\nlt;百八　浪こす岩&gt;\nむかし、女、人の心を恨みて、\n風吹けばとはに浪こす岩なれやわが衣手のかはくときな\nき\n、つねのことぐさにいひけるを、聞きおひける男、\n宵ごとにかはづのあまた鳴く田には水こそまされ雨はふ\nらねど\nlt;百九　人こそあだに&gt;\nむかし、男、友だちの人を失へるがもとにやりける。\n花よりも人こそあだになりにけれいづれをさきに恋ひむ\nとか見し",
+    "type": "ページ",
+    "vol": 1,
+    "vol_str": "01 伊勢物語"
+}

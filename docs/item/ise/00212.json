@@ -1,0 +1,45 @@
+{
+    "attribution": "新編 日本古典文学全集",
+    "label": [
+        "われ見ても久しくなりぬ",
+        "住吉のきしの姫松いくよ",
+        "経ぬらむ",
+        "ほん神、げぎやうしたまひ",
+        "、",
+        "むつましと君はしら浪み",
+        "づがきの久しき世よりい",
+        "はひそめてき",
+        "lt;百十八　たえぬ心&gt;",
+        "むかし、男、久しく音もせで、「忘るる心もなし、まゐり",
+        "む」といへりければ、",
+        "玉かづらはふ木あまたになりぬればたえぬ心のうれしげ",
+        "もなし"
+    ],
+    "objectID": "00212",
+    "page": 212,
+    "related": {
+        "ndl_1288457": [
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/33",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000033/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 33,
+                "type": "コマ"
+            },
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/34",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000034/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 34,
+                "type": "コマ"
+            }
+        ]
+    },
+    "target": "ise",
+    "text": "われ見ても久しくなりぬ\n住吉のきしの姫松いくよ\n経ぬらむ\nほん神、げぎやうしたまひ\n、\nむつましと君はしら浪み\nづがきの久しき世よりい\nはひそめてき\nlt;百十八　たえぬ心&gt;\nむかし、男、久しく音もせで、「忘るる心もなし、まゐり\nむ」といへりければ、\n玉かづらはふ木あまたになりぬればたえぬ心のうれしげ\nもなし",
+    "type": "ページ",
+    "vol": 1,
+    "vol_str": "01 伊勢物語"
+}

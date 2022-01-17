@@ -1,0 +1,44 @@
+{
+    "attribution": "新編 日本古典文学全集",
+    "label": [
+        "lt;八十八　月をもめでじ&gt;",
+        "むかし、いと若きにはあらぬ、これかれ友だちども集りて、",
+        "を見て、それがなかにひとり、",
+        "おほかたは月をもめでじこれぞこのつもれば人の老いと",
+        "なるもの",
+        "lt;八十九　なき名&gt;",
+        "むかし、いやしからぬ男、われよりはまさりたる人を思ひ",
+        "けて、年経ける。",
+        "人しれずわれ恋ひ死なばあぢきなくいづれの神になき名",
+        "おほせむ",
+        "lt;九十　桜花&gt;",
+        "むかし、つれなき人をいかでと思ひわたりければ、あはれ"
+    ],
+    "objectID": "00193",
+    "page": 193,
+    "related": {
+        "ndl_1288457": [
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/14",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000014/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 14,
+                "type": "コマ"
+            },
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/15",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000015/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 15,
+                "type": "コマ"
+            }
+        ]
+    },
+    "target": "ise",
+    "text": "lt;八十八　月をもめでじ&gt;\nむかし、いと若きにはあらぬ、これかれ友だちども集りて、\nを見て、それがなかにひとり、\nおほかたは月をもめでじこれぞこのつもれば人の老いと\nなるもの\nlt;八十九　なき名&gt;\nむかし、いやしからぬ男、われよりはまさりたる人を思ひ\nけて、年経ける。\n人しれずわれ恋ひ死なばあぢきなくいづれの神になき名\nおほせむ\nlt;九十　桜花&gt;\nむかし、つれなき人をいかでと思ひわたりければ、あはれ",
+    "type": "ページ",
+    "vol": 1,
+    "vol_str": "01 伊勢物語"
+}

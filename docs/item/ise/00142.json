@@ -1,0 +1,44 @@
+{
+    "attribution": "新編 日本古典文学全集",
+    "label": [
+        "lt;二十八　あふごかたみ&gt;",
+        "むかし、色好みなりける女、いでていにければ、",
+        "などてかくあふごかたみになりにけむ水もらさじとむす",
+        "びしものを",
+        "lt;二十九　花の賀&gt;",
+        "むかし、春宮の女御の御方の花の賀にめしあづけられたり",
+        "るに、",
+        "花にあかぬ嘆きはいつもせしかども今日の今宵に似る時",
+        "はなし",
+        "lt;三十　はつかなりける女&gt;",
+        "むかし、男、はつかなりける女のもとに、",
+        "あふことは玉の緒ばかりおもほえてつらき心の長く見ゆ"
+    ],
+    "objectID": "00142",
+    "page": 142,
+    "related": {
+        "ndl_1288457": [
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/40",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000040/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 40,
+                "type": "コマ"
+            },
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/41",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000041/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 41,
+                "type": "コマ"
+            }
+        ]
+    },
+    "target": "ise",
+    "text": "lt;二十八　あふごかたみ&gt;\nむかし、色好みなりける女、いでていにければ、\nなどてかくあふごかたみになりにけむ水もらさじとむす\nびしものを\nlt;二十九　花の賀&gt;\nむかし、春宮の女御の御方の花の賀にめしあづけられたり\nるに、\n花にあかぬ嘆きはいつもせしかども今日の今宵に似る時\nはなし\nlt;三十　はつかなりける女&gt;\nむかし、男、はつかなりける女のもとに、\nあふことは玉の緒ばかりおもほえてつらき心の長く見ゆ",
+    "type": "ページ",
+    "vol": 1,
+    "vol_str": "01 伊勢物語"
+}

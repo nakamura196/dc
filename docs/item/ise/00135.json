@@ -1,0 +1,46 @@
+{
+    "attribution": "新編 日本古典文学全集",
+    "label": [
+        "いへりければ、「さればよ」といひて、男、",
+        "あひ見ては心ひとつをかはしまの水の流れて絶えじとぞ",
+        "思ふ",
+        "はいひけれど、その夜いにけり。いにしへ、ゆくさきのこ",
+        "どもなどいひて、",
+        "秋の夜の千夜を一夜になずらへて八千夜し寝ばやあく時",
+        "のあらむ",
+        "し、",
+        "秋の夜の千夜を一夜になせりともことば残りてとりや鳴",
+        "きなむ",
+        "にしへよりもあはれにてなむ通ひける。",
+        "lt;二十三　筒井筒&gt;",
+        "むかし、ゐなかわたらひしける人の子ども、井のもとにい",
+        "て遊びけるを、おとなになりにければ、男も女もはぢかは"
+    ],
+    "objectID": "00135",
+    "page": 135,
+    "related": {
+        "ndl_1288457": [
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/30",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000030/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 30,
+                "type": "コマ"
+            },
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/31",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000031/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 31,
+                "type": "コマ"
+            }
+        ]
+    },
+    "target": "ise",
+    "text": "いへりければ、「さればよ」といひて、男、\nあひ見ては心ひとつをかはしまの水の流れて絶えじとぞ\n思ふ\nはいひけれど、その夜いにけり。いにしへ、ゆくさきのこ\nどもなどいひて、\n秋の夜の千夜を一夜になずらへて八千夜し寝ばやあく時\nのあらむ\nし、\n秋の夜の千夜を一夜になせりともことば残りてとりや鳴\nきなむ\nにしへよりもあはれにてなむ通ひける。\nlt;二十三　筒井筒&gt;\nむかし、ゐなかわたらひしける人の子ども、井のもとにい\nて遊びけるを、おとなになりにければ、男も女もはぢかは",
+    "type": "ページ",
+    "vol": 1,
+    "vol_str": "01 伊勢物語"
+}

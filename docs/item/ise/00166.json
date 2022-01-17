@@ -1,0 +1,46 @@
+{
+    "attribution": "新編 日本古典文学全集",
+    "label": [
+        "む",
+        "よみけるを、男、あはれと",
+        "ひて、その夜は寝にけり。",
+        "の中の例として、思ふをば",
+        "ひ、思はぬをば思はぬもの",
+        "、この人は思ふをも、思は",
+        "をも、けぢめ見せぬ心なむ",
+        "りける。",
+        "lt;六十四　玉簾&gt;",
+        "むかし、男、みそかに語らふわざもせざりければ、いづく",
+        "りけむ、あやしさによめる。",
+        "吹く風にわが身をなさば玉すだれひま求めつつ入るべき",
+        "ものを",
+        "し、"
+    ],
+    "objectID": "00166",
+    "page": 166,
+    "related": {
+        "ndl_1288457": [
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/18",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000018/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 18,
+                "type": "コマ"
+            },
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/19",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000019/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 19,
+                "type": "コマ"
+            }
+        ]
+    },
+    "target": "ise",
+    "text": "む\nよみけるを、男、あはれと\nひて、その夜は寝にけり。\nの中の例として、思ふをば\nひ、思はぬをば思はぬもの\n、この人は思ふをも、思は\nをも、けぢめ見せぬ心なむ\nりける。\nlt;六十四　玉簾&gt;\nむかし、男、みそかに語らふわざもせざりければ、いづく\nりけむ、あやしさによめる。\n吹く風にわが身をなさば玉すだれひま求めつつ入るべき\nものを\nし、",
+    "type": "ページ",
+    "vol": 1,
+    "vol_str": "01 伊勢物語"
+}

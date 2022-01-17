@@ -1,0 +1,45 @@
+{
+    "attribution": "新編 日本古典文学全集",
+    "label": [
+        "lt;百十　魂結び&gt;",
+        "むかし、男、みそかに通ふ女ありけり。それがもとより、",
+        "今宵夢になむ見えたまひつる」といへりければ、男、",
+        "思ひあまりいでにし魂のあるならむ夜ぶかく見えば魂結",
+        "びせよ",
+        "lt;百十一　まだ見ぬ人&gt;",
+        "むかし、男、やむごとなき女のもとに、なくなりにけるを",
+        "ぶらふやうにて、いひやりける。",
+        "いにしへはありもやしけむいまぞしるまだ見ぬ人を恋ふ",
+        "るものとは",
+        "し、",
+        "下紐のしるしとするも解けなくに語るがごとは恋ひずぞ",
+        "あるべき"
+    ],
+    "objectID": "00208",
+    "page": 208,
+    "related": {
+        "ndl_1288457": [
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/37",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000037/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 37,
+                "type": "コマ"
+            },
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/38",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000038/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 38,
+                "type": "コマ"
+            }
+        ]
+    },
+    "target": "ise",
+    "text": "lt;百十　魂結び&gt;\nむかし、男、みそかに通ふ女ありけり。それがもとより、\n今宵夢になむ見えたまひつる」といへりければ、男、\n思ひあまりいでにし魂のあるならむ夜ぶかく見えば魂結\nびせよ\nlt;百十一　まだ見ぬ人&gt;\nむかし、男、やむごとなき女のもとに、なくなりにけるを\nぶらふやうにて、いひやりける。\nいにしへはありもやしけむいまぞしるまだ見ぬ人を恋ふ\nるものとは\nし、\n下紐のしるしとするも解けなくに語るがごとは恋ひずぞ\nあるべき",
+    "type": "ページ",
+    "vol": 1,
+    "vol_str": "01 伊勢物語"
+}

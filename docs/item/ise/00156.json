@@ -1,0 +1,46 @@
+{
+    "attribution": "新編 日本古典文学全集",
+    "label": [
+        "うら若みねよげに見ゆる若草を人のむすばむことをしぞ",
+        "思ふ",
+        "聞えけり。返し、",
+        "初草のなどめづらしき言の葉ぞうらなくものを思ひける",
+        "かな",
+        "lt;五十　鳥の子&gt;",
+        "むかし、男ありけり。うらむる人をうらみて、",
+        "鳥の子を十づつ十はかさぬとも思はぬひとを思ふものか",
+        "は",
+        "いへりければ、",
+        "朝露は消えのこりてもありぬべしたれかこの世をたのみ",
+        "はつべき",
+        "た、男",
+        "吹く風に去年の桜は散らずともあなたのみがたひとの心"
+    ],
+    "objectID": "00156",
+    "page": 156,
+    "related": {
+        "ndl_1288457": [
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/30",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000030/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 30,
+                "type": "コマ"
+            },
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/31",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000031/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 31,
+                "type": "コマ"
+            }
+        ]
+    },
+    "target": "ise",
+    "text": "うら若みねよげに見ゆる若草を人のむすばむことをしぞ\n思ふ\n聞えけり。返し、\n初草のなどめづらしき言の葉ぞうらなくものを思ひける\nかな\nlt;五十　鳥の子&gt;\nむかし、男ありけり。うらむる人をうらみて、\n鳥の子を十づつ十はかさぬとも思はぬひとを思ふものか\nは\nいへりければ、\n朝露は消えのこりてもありぬべしたれかこの世をたのみ\nはつべき\nた、男\n吹く風に去年の桜は散らずともあなたのみがたひとの心",
+    "type": "ページ",
+    "vol": 1,
+    "vol_str": "01 伊勢物語"
+}

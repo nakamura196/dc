@@ -1,0 +1,45 @@
+{
+    "attribution": "新編 日本古典文学全集",
+    "label": [
+        "lt;九十九　ひをりの日&gt;",
+        "むかし、右近の馬場のひをりの日、むかひに立てたりける",
+        "に、女の顔の、下簾よりほのかに見えければ、中将なりけ",
+        "男のよみてやりける。",
+        "見ずもあらず見もせぬ人の恋しくはあやなく今日やなが",
+        "め暮さむ",
+        "し、",
+        "しるしらぬ何かあやなくわきていはむ思ひのみこそしる",
+        "べなりけれ",
+        "ちはたれとしりにけり。",
+        "lt;百　忘れ草&gt;",
+        "むかし、男、後涼殿のはさまを渡りければ、あるやむごと",
+        "き人の御局より、「忘れ草を忍ぶ草とやいふ」とて、いだ"
+    ],
+    "objectID": "00200",
+    "page": 200,
+    "related": {
+        "ndl_1288457": [
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/48",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000048/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 48,
+                "type": "コマ"
+            },
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/49",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000049/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 49,
+                "type": "コマ"
+            }
+        ]
+    },
+    "target": "ise",
+    "text": "lt;九十九　ひをりの日&gt;\nむかし、右近の馬場のひをりの日、むかひに立てたりける\nに、女の顔の、下簾よりほのかに見えければ、中将なりけ\n男のよみてやりける。\n見ずもあらず見もせぬ人の恋しくはあやなく今日やなが\nめ暮さむ\nし、\nしるしらぬ何かあやなくわきていはむ思ひのみこそしる\nべなりけれ\nちはたれとしりにけり。\nlt;百　忘れ草&gt;\nむかし、男、後涼殿のはさまを渡りければ、あるやむごと\nき人の御局より、「忘れ草を忍ぶ草とやいふ」とて、いだ",
+    "type": "ページ",
+    "vol": 1,
+    "vol_str": "01 伊勢物語"
+}

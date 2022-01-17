@@ -1,0 +1,45 @@
+{
+    "attribution": "新編 日本古典文学全集",
+    "label": [
+        "いかでかいまする」といふを見れば、見し人なりけり。京",
+        "、その人のもとにとて、文書きてつく。",
+        "中空にたちゐる雲のあともなく身のいたづらになりぬべ",
+        "きかな",
+        "てなむつけける。かくて思ひゆくに、",
+        "駿河なるうつみの山のうつつにも夢にも人にあはぬなり",
+        "けり",
+        "思ひゆきけり。",
+        "lt;異十一　すずろなる所&gt;",
+        "むかし、男、すずろなる所にゆきて、夜明けてかへりける",
+        "、人々いひさわぎければ、",
+        "月しあれば明けむものとはしらずして夜ぶかく来しを人",
+        "見けむかも"
+    ],
+    "objectID": "00222",
+    "page": 222,
+    "related": {
+        "ndl_1288457": [
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/15",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000015/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 15,
+                "type": "コマ"
+            },
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/16",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000016/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 16,
+                "type": "コマ"
+            }
+        ]
+    },
+    "target": "ise",
+    "text": "いかでかいまする」といふを見れば、見し人なりけり。京\n、その人のもとにとて、文書きてつく。\n中空にたちゐる雲のあともなく身のいたづらになりぬべ\nきかな\nてなむつけける。かくて思ひゆくに、\n駿河なるうつみの山のうつつにも夢にも人にあはぬなり\nけり\n思ひゆきけり。\nlt;異十一　すずろなる所&gt;\nむかし、男、すずろなる所にゆきて、夜明けてかへりける\n、人々いひさわぎければ、\n月しあれば明けむものとはしらずして夜ぶかく来しを人\n見けむかも",
+    "type": "ページ",
+    "vol": 1,
+    "vol_str": "01 伊勢物語"
+}

@@ -1,0 +1,45 @@
+{
+    "attribution": "新編 日本古典文学全集",
+    "label": [
+        "なみだにぞぬれつつしぼる世の人のつらき心は袖のしづ",
+        "くか",
+        "にあふことかたき女になむ。",
+        "lt;七十六　小塩の山&gt;",
+        "むかし、二条の后の、まだ春宮の御息所と申しける時、氏",
+        "にまうでたまひけるに、近衛府にさぶらひけるおきな、人",
+        "の禄たまはるついでに、御車よりたまはりて、よみて奉り",
+        "る。",
+        "大原や小塩の山も今日こそは神代のこともおもひいづら",
+        "め",
+        "て、心にもかなしとや思ひけむ、いかが思ひけむ、しらず",
+        "し。",
+        "lt;七十七　春の別れ&gt;"
+    ],
+    "objectID": "00178",
+    "page": 178,
+    "related": {
+        "ndl_1288457": [
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/15",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000015/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 15,
+                "type": "コマ"
+            },
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/16",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000016/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 16,
+                "type": "コマ"
+            }
+        ]
+    },
+    "target": "ise",
+    "text": "なみだにぞぬれつつしぼる世の人のつらき心は袖のしづ\nくか\nにあふことかたき女になむ。\nlt;七十六　小塩の山&gt;\nむかし、二条の后の、まだ春宮の御息所と申しける時、氏\nにまうでたまひけるに、近衛府にさぶらひけるおきな、人\nの禄たまはるついでに、御車よりたまはりて、よみて奉り\nる。\n大原や小塩の山も今日こそは神代のこともおもひいづら\nめ\nて、心にもかなしとや思ひけむ、いかが思ひけむ、しらず\nし。\nlt;七十七　春の別れ&gt;",
+    "type": "ページ",
+    "vol": 1,
+    "vol_str": "01 伊勢物語"
+}

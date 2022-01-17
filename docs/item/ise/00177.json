@@ -1,0 +1,46 @@
+{
+    "attribution": "新編 日本古典文学全集",
+    "label": [
+        "岩根ふみ重なる山にあらねどもあはぬ日おほく恋ひわた",
+        "るかな",
+        "lt;七十五　海松&gt;",
+        "むかし、男、「伊勢の国に率ていきてあらむ」といひけれ",
+        "、女、",
+        "大淀の浜に生ふてふみるからに心はなぎぬかたらはねど",
+        "も",
+        "いひて、ましてつれなかりければ、男、",
+        "袖ぬれてあまの刈りほすわたつうみのみるをあふにてや",
+        "まむとやする",
+        "、",
+        "岩間より生ふるみるめしつれなくはしほ干しほ満ちかひ",
+        "もありなむ",
+        "た、男、"
+    ],
+    "objectID": "00177",
+    "page": 177,
+    "related": {
+        "ndl_1288457": [
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/14",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000014/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 14,
+                "type": "コマ"
+            },
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/15",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000015/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 15,
+                "type": "コマ"
+            }
+        ]
+    },
+    "target": "ise",
+    "text": "岩根ふみ重なる山にあらねどもあはぬ日おほく恋ひわた\nるかな\nlt;七十五　海松&gt;\nむかし、男、「伊勢の国に率ていきてあらむ」といひけれ\n、女、\n大淀の浜に生ふてふみるからに心はなぎぬかたらはねど\nも\nいひて、ましてつれなかりければ、男、\n袖ぬれてあまの刈りほすわたつうみのみるをあふにてや\nまむとやする\n、\n岩間より生ふるみるめしつれなくはしほ干しほ満ちかひ\nもありなむ\nた、男、",
+    "type": "ページ",
+    "vol": 1,
+    "vol_str": "01 伊勢物語"
+}

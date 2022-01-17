@@ -1,0 +1,45 @@
+{
+    "attribution": "新編 日本古典文学全集",
+    "label": [
+        "のもとに、",
+        "いまはとてわれに時雨のふりゆけば言の葉さへぞうつろ",
+        "ひにける",
+        "りごと、",
+        "人を思ふ心の花にあらばこそ風のまにまに散りもみだれ",
+        "め",
+        "lt;異七　咲ける咲かざる&gt;",
+        "むかし、男、奈良の京に、あひしりたりける人とぶらひに",
+        "きけるに、友だちのもとには消息をして、文をやらざりけ",
+        "人に、",
+        "春の日のいたりいたらぬことはあらじ咲ける咲かざる花",
+        "の見ゆらむ",
+        "lt;異八　玉くしげ&gt;"
+    ],
+    "objectID": "00220",
+    "page": 220,
+    "related": {
+        "ndl_1288457": [
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/15",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000015/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 15,
+                "type": "コマ"
+            },
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/16",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000016/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 16,
+                "type": "コマ"
+            }
+        ]
+    },
+    "target": "ise",
+    "text": "のもとに、\nいまはとてわれに時雨のふりゆけば言の葉さへぞうつろ\nひにける\nりごと、\n人を思ふ心の花にあらばこそ風のまにまに散りもみだれ\nめ\nlt;異七　咲ける咲かざる&gt;\nむかし、男、奈良の京に、あひしりたりける人とぶらひに\nきけるに、友だちのもとには消息をして、文をやらざりけ\n人に、\n春の日のいたりいたらぬことはあらじ咲ける咲かざる花\nの見ゆらむ\nlt;異八　玉くしげ&gt;",
+    "type": "ページ",
+    "vol": 1,
+    "vol_str": "01 伊勢物語"
+}

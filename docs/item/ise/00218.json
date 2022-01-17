@@ -1,0 +1,45 @@
+{
+    "attribution": "新編 日本古典文学全集",
+    "label": [
+        "大原やせがゐの水をむすびつつあくやと問ひし人はいづ",
+        "らは",
+        "いひて、消えにけり。あはれあはれ。",
+        "lt;異三　かつ見る人&gt;",
+        "むかし、男女、おきふしものをいひて、いかがおぼえけむ、",
+        "、",
+        "心をぞわりなきものと思ひぬるかつ見る人や恋しかるべ",
+        "き",
+        "lt;異四　雲居の峰&gt;",
+        "むかし、西の院といふ所にすむ人ありけり。市になむいで",
+        "りける、女車のありけるに、とかくをかしきことなどいひ",
+        "きて、「御すみかはいづくぞ」といひければ、かくなむい",
+        "たりける。"
+    ],
+    "objectID": "00218",
+    "page": 218,
+    "related": {
+        "ndl_1288457": [
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/21",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000021/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 21,
+                "type": "コマ"
+            },
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/22",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000022/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 22,
+                "type": "コマ"
+            }
+        ]
+    },
+    "target": "ise",
+    "text": "大原やせがゐの水をむすびつつあくやと問ひし人はいづ\nらは\nいひて、消えにけり。あはれあはれ。\nlt;異三　かつ見る人&gt;\nむかし、男女、おきふしものをいひて、いかがおぼえけむ、\n、\n心をぞわりなきものと思ひぬるかつ見る人や恋しかるべ\nき\nlt;異四　雲居の峰&gt;\nむかし、西の院といふ所にすむ人ありけり。市になむいで\nりける、女車のありけるに、とかくをかしきことなどいひ\nきて、「御すみかはいづくぞ」といひければ、かくなむい\nたりける。",
+    "type": "ページ",
+    "vol": 1,
+    "vol_str": "01 伊勢物語"
+}

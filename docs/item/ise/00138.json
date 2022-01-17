@@ -1,0 +1,46 @@
+{
+    "attribution": "新編 日本古典文学全集",
+    "label": [
+        "いひて見いだす",
+        "、からうじて",
+        "和人、「来む」",
+        "いへり。よろこ",
+        "て待つに、た",
+        "たび過ぎぬれ",
+        "、",
+        "君来むといひし夜ごとに過ぎぬれば頼まぬものの恋ひつ",
+        "つぞ経る",
+        "いひけれど、男、すまずなりにけり。",
+        "lt;二十四　梓弓&gt;",
+        "むかし、男、かたゐなかにすみけり。男、宮仕へしにとて、",
+        "れ惜しみてゆきにけるままに、三年来ざりければ、待ちわ",
+        "たりけるに、いとねむごろにいひける人に、「今宵あはむ」"
+    ],
+    "objectID": "00138",
+    "page": 138,
+    "related": {
+        "ndl_1288457": [
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/35",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000035/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 35,
+                "type": "コマ"
+            },
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/36",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000036/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 36,
+                "type": "コマ"
+            }
+        ]
+    },
+    "target": "ise",
+    "text": "いひて見いだす\n、からうじて\n和人、「来む」\nいへり。よろこ\nて待つに、た\nたび過ぎぬれ\n、\n君来むといひし夜ごとに過ぎぬれば頼まぬものの恋ひつ\nつぞ経る\nいひけれど、男、すまずなりにけり。\nlt;二十四　梓弓&gt;\nむかし、男、かたゐなかにすみけり。男、宮仕へしにとて、\nれ惜しみてゆきにけるままに、三年来ざりければ、待ちわ\nたりけるに、いとねむごろにいひける人に、「今宵あはむ」",
+    "type": "ページ",
+    "vol": 1,
+    "vol_str": "01 伊勢物語"
+}

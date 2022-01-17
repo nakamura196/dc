@@ -1,0 +1,45 @@
+{
+    "attribution": "新編 日本古典文学全集",
+    "label": [
+        "、",
+        "うぐひすの花を縫ふてふ",
+        "笠もがなぬるめる人に着",
+        "せてかへさむ",
+        "し、",
+        "うぐひすの花を縫ふてふ",
+        "笠はいなおもひをつけよ",
+        "ほしてかへさむ",
+        "lt;百二十二　井出の玉水&gt;",
+        "むかし、男、ちぎれることあやまれる人に、",
+        "山城の井出の玉水手にむすびたのみしかひもなき世なり",
+        "けり",
+        "いひやれど、いらへもせず。"
+    ],
+    "objectID": "00214",
+    "page": 214,
+    "related": {
+        "ndl_1288457": [
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/18",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000018/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 18,
+                "type": "コマ"
+            },
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/19",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000019/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 19,
+                "type": "コマ"
+            }
+        ]
+    },
+    "target": "ise",
+    "text": "、\nうぐひすの花を縫ふてふ\n笠もがなぬるめる人に着\nせてかへさむ\nし、\nうぐひすの花を縫ふてふ\n笠はいなおもひをつけよ\nほしてかへさむ\nlt;百二十二　井出の玉水&gt;\nむかし、男、ちぎれることあやまれる人に、\n山城の井出の玉水手にむすびたのみしかひもなき世なり\nけり\nいひやれど、いらへもせず。",
+    "type": "ページ",
+    "vol": 1,
+    "vol_str": "01 伊勢物語"
+}

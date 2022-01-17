@@ -1,0 +1,45 @@
+{
+    "attribution": "新編 日本古典文学全集",
+    "label": [
+        "栗原のあねはの松の人ならばみやこのつとにいざといは",
+        "ましを",
+        "いへりければ、よろこぼひて、「思ひけらし」とぞいひを",
+        "ける。",
+        "lt;十五　しのぶ山&gt;",
+        "むかし、陸奥の国にて、なでふことなき人の妻に通ひける",
+        "、あやしう、さやうにてあるべき女ともあらず見えければ、",
+        "しのぶ山しのびてかよふ道もがな人の心のおくも見るべ",
+        "く",
+        "、かぎりなくめでたしと思へど、さるさがなきえびす心を",
+        "ては、いかがはせむは。",
+        "lt;十六　紀の有常&gt;",
+        "むかし、紀の有常といふ人ありけり。三代のみかどに仕う"
+    ],
+    "objectID": "00127",
+    "page": 127,
+    "related": {
+        "ndl_1288457": [
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/23",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000023/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 23,
+                "type": "コマ"
+            },
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/24",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000024/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 24,
+                "type": "コマ"
+            }
+        ]
+    },
+    "target": "ise",
+    "text": "栗原のあねはの松の人ならばみやこのつとにいざといは\nましを\nいへりければ、よろこぼひて、「思ひけらし」とぞいひを\nける。\nlt;十五　しのぶ山&gt;\nむかし、陸奥の国にて、なでふことなき人の妻に通ひける\n、あやしう、さやうにてあるべき女ともあらず見えければ、\nしのぶ山しのびてかよふ道もがな人の心のおくも見るべ\nく\n、かぎりなくめでたしと思へど、さるさがなきえびす心を\nては、いかがはせむは。\nlt;十六　紀の有常&gt;\nむかし、紀の有常といふ人ありけり。三代のみかどに仕う",
+    "type": "ページ",
+    "vol": 1,
+    "vol_str": "01 伊勢物語"
+}

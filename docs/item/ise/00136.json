@@ -1,0 +1,47 @@
+{
+    "attribution": "新編 日本古典文学全集",
+    "label": [
+        "てありけれど、男はこ",
+        "女をこそ得めと思ふ、",
+        "はこの男をと思ひつ",
+        "、親のあはすれども聞",
+        "でなむありける。さて、",
+        "のとなりの男のもとよ",
+        "、かくなむ、",
+        "筒井つの井筒にかけしまろがたけ過ぎにけらしな妹見ざ",
+        "るまに",
+        "、返し、",
+        "くらべこしふりわけ髪も肩すぎぬ君ならずしてたれかあ",
+        "ぐべき",
+        "どいひいひて、つひに本意のごとくあひにけり。",
+        "さて年ごろふるほどに、女、親なく、頼りなくなるままに、",
+        "ろともにいふかひなくてあらむやはとて、河内の国、高安"
+    ],
+    "objectID": "00136",
+    "page": 136,
+    "related": {
+        "ndl_1288457": [
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/32",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000032/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 32,
+                "type": "コマ"
+            },
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/33",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000033/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 33,
+                "type": "コマ"
+            }
+        ]
+    },
+    "target": "ise",
+    "text": "てありけれど、男はこ\n女をこそ得めと思ふ、\nはこの男をと思ひつ\n、親のあはすれども聞\nでなむありける。さて、\nのとなりの男のもとよ\n、かくなむ、\n筒井つの井筒にかけしまろがたけ過ぎにけらしな妹見ざ\nるまに\n、返し、\nくらべこしふりわけ髪も肩すぎぬ君ならずしてたれかあ\nぐべき\nどいひいひて、つひに本意のごとくあひにけり。\nさて年ごろふるほどに、女、親なく、頼りなくなるままに、\nろともにいふかひなくてあらむやはとて、河内の国、高安",
+    "type": "ページ",
+    "vol": 1,
+    "vol_str": "01 伊勢物語"
+}

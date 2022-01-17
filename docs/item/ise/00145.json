@@ -1,0 +1,44 @@
+{
+    "attribution": "新編 日本古典文学全集",
+    "label": [
+        "もなくていへるなるべし。",
+        "lt;三十五　あわ緒&gt;",
+        "むかし、心にもあらで絶えたる人のもとに、",
+        "玉の緒をあわ緒によりて結べれば絶えてののちもあはむ",
+        "とぞ思ふ",
+        "lt;三十六　玉葛&gt;",
+        "むかし、「忘れぬるなめり」と、問ひ言しける女のもとに、",
+        "谷せばみ峰まではへる玉かづら絶えむと人にわが思はな",
+        "くに",
+        "lt;三十七　下紐&gt;",
+        "むかし、男、色好みなりける女にあへりけり。うしろめた",
+        "や思ひけむ、"
+    ],
+    "objectID": "00145",
+    "page": 145,
+    "related": {
+        "ndl_1288457": [
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/42",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000042/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 42,
+                "type": "コマ"
+            },
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/43",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000043/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 43,
+                "type": "コマ"
+            }
+        ]
+    },
+    "target": "ise",
+    "text": "もなくていへるなるべし。\nlt;三十五　あわ緒&gt;\nむかし、心にもあらで絶えたる人のもとに、\n玉の緒をあわ緒によりて結べれば絶えてののちもあはむ\nとぞ思ふ\nlt;三十六　玉葛&gt;\nむかし、「忘れぬるなめり」と、問ひ言しける女のもとに、\n谷せばみ峰まではへる玉かづら絶えむと人にわが思はな\nくに\nlt;三十七　下紐&gt;\nむかし、男、色好みなりける女にあへりけり。うしろめた\nや思ひけむ、",
+    "type": "ページ",
+    "vol": 1,
+    "vol_str": "01 伊勢物語"
+}

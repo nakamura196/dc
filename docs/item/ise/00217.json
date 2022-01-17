@@ -1,0 +1,45 @@
+{
+    "attribution": "新編 日本古典文学全集",
+    "label": [
+        "lt;異一　雨の音&gt;",
+        "雨のいみじうふり暮して、つとめてもなほいみじうふるに、",
+        "る人のがりやりし。",
+        "ふりくらしふりくらしつる雨の音をつれなき人の心とも",
+        "がな",
+        "し、",
+        "ややもせば風にしたがふ雨の音をたえぬ心にかけずもあ",
+        "らなむ",
+        "lt;異二　清和井の水&gt;",
+        "むかし、女をぬすみてゆく道に、水のある所にて、「飲ま",
+        "や」と問ふに、うなづきければ、坏なども具せざりければ、",
+        "にむすびてくはす。さてのぼりにければ、もとの所にかへ",
+        "ゆくに、かの水飲みし所にて、"
+    ],
+    "objectID": "00217",
+    "page": 217,
+    "related": {
+        "ndl_1288457": [
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/5",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000005/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 5,
+                "type": "コマ"
+            },
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/6",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000006/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 6,
+                "type": "コマ"
+            }
+        ]
+    },
+    "target": "ise",
+    "text": "lt;異一　雨の音&gt;\n雨のいみじうふり暮して、つとめてもなほいみじうふるに、\nる人のがりやりし。\nふりくらしふりくらしつる雨の音をつれなき人の心とも\nがな\nし、\nややもせば風にしたがふ雨の音をたえぬ心にかけずもあ\nらなむ\nlt;異二　清和井の水&gt;\nむかし、女をぬすみてゆく道に、水のある所にて、「飲ま\nや」と問ふに、うなづきければ、坏なども具せざりければ、\nにむすびてくはす。さてのぼりにければ、もとの所にかへ\nゆくに、かの水飲みし所にて、",
+    "type": "ページ",
+    "vol": 1,
+    "vol_str": "01 伊勢物語"
+}

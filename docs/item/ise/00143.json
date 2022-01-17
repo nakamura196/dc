@@ -1,0 +1,45 @@
+{
+    "attribution": "新編 日本古典文学全集",
+    "label": [
+        "らむ",
+        "lt;三十一　よしや草葉よ&gt;",
+        "むかし、宮のうちにて、ある御達の局の前を渡りけるに、",
+        "にのあたにか思ひけむ、「よしや草葉よならむさが見む」",
+        "いふ。男、",
+        "つみもなき人をうけへば忘れ草おのが上にぞ生ふといふ",
+        "なる",
+        "いふを、ねたむ女もありけり。",
+        "lt;三十二　倭文の苧環&gt;",
+        "むかし、ものいひける女に、年ごろありて、",
+        "いにしへのしづのをだまきくりかへし昔を今になすよし",
+        "もがな",
+        "いへりけれど、なにとも思はずやありけむ。"
+    ],
+    "objectID": "00143",
+    "page": 143,
+    "related": {
+        "ndl_1288457": [
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/41",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000041/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 41,
+                "type": "コマ"
+            },
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/42",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000042/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 42,
+                "type": "コマ"
+            }
+        ]
+    },
+    "target": "ise",
+    "text": "らむ\nlt;三十一　よしや草葉よ&gt;\nむかし、宮のうちにて、ある御達の局の前を渡りけるに、\nにのあたにか思ひけむ、「よしや草葉よならむさが見む」\nいふ。男、\nつみもなき人をうけへば忘れ草おのが上にぞ生ふといふ\nなる\nいふを、ねたむ女もありけり。\nlt;三十二　倭文の苧環&gt;\nむかし、ものいひける女に、年ごろありて、\nいにしへのしづのをだまきくりかへし昔を今になすよし\nもがな\nいへりけれど、なにとも思はずやありけむ。",
+    "type": "ページ",
+    "vol": 1,
+    "vol_str": "01 伊勢物語"
+}

@@ -1,0 +1,46 @@
+{
+    "attribution": "新編 日本古典文学全集",
+    "label": [
+        "れにけり。月日経ておこ",
+        "たる文に、",
+        "あさましく、対面せで、",
+        "月日の経にけること。忘",
+        "れやしたまひにけむと、",
+        "いたく思ひわびてなむは",
+        "べる。世の中の人の心は、目離るれば忘れぬべきものにこ",
+        "そあめれ。",
+        "いへりければ、よみてやる。",
+        "目離るとも思ほえなくに忘らるる時しなければおもかげ",
+        "に立つ",
+        "lt;四十七　大幣&gt;",
+        "むかし、男、ねむごろに、いかでと思ふ女ありけり。され",
+        "この男を、あだなりと聞きて、つれなさのみまさりつつい"
+    ],
+    "objectID": "00154",
+    "page": 154,
+    "related": {
+        "ndl_1288457": [
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/51",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000051/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 51,
+                "type": "コマ"
+            },
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/52",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000052/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 52,
+                "type": "コマ"
+            }
+        ]
+    },
+    "target": "ise",
+    "text": "れにけり。月日経ておこ\nたる文に、\nあさましく、対面せで、\n月日の経にけること。忘\nれやしたまひにけむと、\nいたく思ひわびてなむは\nべる。世の中の人の心は、目離るれば忘れぬべきものにこ\nそあめれ。\nいへりければ、よみてやる。\n目離るとも思ほえなくに忘らるる時しなければおもかげ\nに立つ\nlt;四十七　大幣&gt;\nむかし、男、ねむごろに、いかでと思ふ女ありけり。され\nこの男を、あだなりと聞きて、つれなさのみまさりつつい",
+    "type": "ページ",
+    "vol": 1,
+    "vol_str": "01 伊勢物語"
+}

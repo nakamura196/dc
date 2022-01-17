@@ -1,0 +1,46 @@
+{
+    "attribution": "新編 日本古典文学全集",
+    "label": [
+        "日は悲しも",
+        "よみて絶え入りにけり。親あわてにけり。なほ思ひてこそ",
+        "ひしか、いとかくしもあらじと思ふに、真実に絶え入りに",
+        "れば、まどひて願立てけり。今日のいりあひばかりに絶え",
+        "りて、またの日の戌の時ばかりになむ、からうじていきい",
+        "たりける。むかしの若人は、さるすける物思ひをなむしけ",
+        "。今のおきな、まさにしなむや。",
+        "lt;四十一　紫&gt;",
+        "むかし、女はらから二",
+        "ありけり。一人はいや",
+        "き男のまづしき、一人",
+        "あてなる男もたりけり。",
+        "やしき男もたる、十二",
+        "のつごもりに、うへの"
+    ],
+    "objectID": "00149",
+    "page": 149,
+    "related": {
+        "ndl_1288457": [
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/46",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000046/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 46,
+                "type": "コマ"
+            },
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/47",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000047/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 47,
+                "type": "コマ"
+            }
+        ]
+    },
+    "target": "ise",
+    "text": "日は悲しも\nよみて絶え入りにけり。親あわてにけり。なほ思ひてこそ\nひしか、いとかくしもあらじと思ふに、真実に絶え入りに\nれば、まどひて願立てけり。今日のいりあひばかりに絶え\nりて、またの日の戌の時ばかりになむ、からうじていきい\nたりける。むかしの若人は、さるすける物思ひをなむしけ\n。今のおきな、まさにしなむや。\nlt;四十一　紫&gt;\nむかし、女はらから二\nありけり。一人はいや\nき男のまづしき、一人\nあてなる男もたりけり。\nやしき男もたる、十二\nのつごもりに、うへの",
+    "type": "ページ",
+    "vol": 1,
+    "vol_str": "01 伊勢物語"
+}

@@ -1,0 +1,45 @@
+{
+    "attribution": "新編 日本古典文学全集",
+    "label": [
+        "えなむ",
+        "書きてなむいにける。男来て見ればなし。いとねたくてを",
+        "けり。",
+        "いささめに散りくる桜なからなむのどけき春の名をも立",
+        "つめり",
+        "lt;異十六　かはたけ&gt;",
+        "むかし、すき者ども集りて歌よみけるに、かはたけを、あ",
+        "男、",
+        "小夜ふけてなかばたけゆく久かたの月ふきかへせ秋の山",
+        "かぜ",
+        "lt;異十七　色革&gt;",
+        "むかし、男、はるかなるほどにゆきたりけるに、筑紫のつ",
+        "、人のこひたりけるに、色革やるとて、"
+    ],
+    "objectID": "00225",
+    "page": 225,
+    "related": {
+        "ndl_1288457": [
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/36",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000036/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 36,
+                "type": "コマ"
+            },
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/37",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000037/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 37,
+                "type": "コマ"
+            }
+        ]
+    },
+    "target": "ise",
+    "text": "えなむ\n書きてなむいにける。男来て見ればなし。いとねたくてを\nけり。\nいささめに散りくる桜なからなむのどけき春の名をも立\nつめり\nlt;異十六　かはたけ&gt;\nむかし、すき者ども集りて歌よみけるに、かはたけを、あ\n男、\n小夜ふけてなかばたけゆく久かたの月ふきかへせ秋の山\nかぜ\nlt;異十七　色革&gt;\nむかし、男、はるかなるほどにゆきたりけるに、筑紫のつ\n、人のこひたりけるに、色革やるとて、",
+    "type": "ページ",
+    "vol": 1,
+    "vol_str": "01 伊勢物語"
+}

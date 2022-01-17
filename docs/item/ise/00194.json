@@ -1,0 +1,45 @@
+{
+    "attribution": "新編 日本古典文学全集",
+    "label": [
+        "や思ひけむ、「さらば、あす、ものごしにても」といへり",
+        "るを、かぎりなくうれしく、またうたがはしかりければ、",
+        "もしろかりける桜につけて、",
+        "桜花今日こそかくもにほふともあな頼みがた明日の夜の",
+        "こと",
+        "いふ心ばへもあるべし。",
+        "lt;九十一　惜しめども&gt;",
+        "むかし、月日のゆくをさへ嘆く男、三月つごもりがたに、",
+        "をしめども春のかぎりの今日の日の夕暮にさへなりにけ",
+        "るかな",
+        "lt;九十二　棚なし小舟&gt;",
+        "むかし、恋しさに来つつかへれど、女に消息をだにえせで",
+        "める。"
+    ],
+    "objectID": "00194",
+    "page": 194,
+    "related": {
+        "ndl_1288457": [
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/21",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000021/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 21,
+                "type": "コマ"
+            },
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/22",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000022/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 22,
+                "type": "コマ"
+            }
+        ]
+    },
+    "target": "ise",
+    "text": "や思ひけむ、「さらば、あす、ものごしにても」といへり\nるを、かぎりなくうれしく、またうたがはしかりければ、\nもしろかりける桜につけて、\n桜花今日こそかくもにほふともあな頼みがた明日の夜の\nこと\nいふ心ばへもあるべし。\nlt;九十一　惜しめども&gt;\nむかし、月日のゆくをさへ嘆く男、三月つごもりがたに、\nをしめども春のかぎりの今日の日の夕暮にさへなりにけ\nるかな\nlt;九十二　棚なし小舟&gt;\nむかし、恋しさに来つつかへれど、女に消息をだにえせで\nめる。",
+    "type": "ページ",
+    "vol": 1,
+    "vol_str": "01 伊勢物語"
+}

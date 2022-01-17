@@ -1,0 +1,36 @@
+{
+    "attribution": "新編 日本古典文学全集",
+    "label": [
+        "lt;百二十五　つひにゆく道&gt;",
+        "むかし、男、わづらひて、心地死ぬべくおぼえければ、",
+        "つひにゆく道とはかねて聞きしかどきのふけふとは思は",
+        "ざりしを"
+    ],
+    "objectID": "00216",
+    "page": 216,
+    "related": {
+        "ndl_1288457": [
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/50",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000050/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 50,
+                "type": "コマ"
+            },
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/51",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000051/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 51,
+                "type": "コマ"
+            }
+        ]
+    },
+    "target": "ise",
+    "text": "lt;百二十五　つひにゆく道&gt;\nむかし、男、わづらひて、心地死ぬべくおぼえければ、\nつひにゆく道とはかねて聞きしかどきのふけふとは思は\nざりしを",
+    "type": "ページ",
+    "vol": 1,
+    "vol_str": "01 伊勢物語"
+}

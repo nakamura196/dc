@@ -1,0 +1,45 @@
+{
+    "attribution": "新編 日本古典文学全集",
+    "label": [
+        "lt;百四　賀茂の祭&gt;",
+        "むかし、ことなることなくて尼になれる人ありけり。かた",
+        "をやつしたれど、ものやゆかしかりけむ、賀茂の祭見にい",
+        "たりけるを、男、歌よみてやる。",
+        "世をうみのあまとし人を見るからにめくはせよとも頼ま",
+        "るるかな",
+        "れは、斎宮の、もの見たまひける車に、かく聞えたりけれ",
+        "見さしてかへりたまひにけりとなむ。",
+        "lt;百五　白露&gt;",
+        "むかし、男、「かくては死ぬべし」といひやりたりければ、",
+        "、",
+        "白露は消なば消ななむ消えずとて玉にぬくべき人もあら",
+        "じを"
+    ],
+    "objectID": "00204",
+    "page": 204,
+    "related": {
+        "ndl_1288457": [
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/36",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000036/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 36,
+                "type": "コマ"
+            },
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/37",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000037/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 37,
+                "type": "コマ"
+            }
+        ]
+    },
+    "target": "ise",
+    "text": "lt;百四　賀茂の祭&gt;\nむかし、ことなることなくて尼になれる人ありけり。かた\nをやつしたれど、ものやゆかしかりけむ、賀茂の祭見にい\nたりけるを、男、歌よみてやる。\n世をうみのあまとし人を見るからにめくはせよとも頼ま\nるるかな\nれは、斎宮の、もの見たまひける車に、かく聞えたりけれ\n見さしてかへりたまひにけりとなむ。\nlt;百五　白露&gt;\nむかし、男、「かくては死ぬべし」といひやりたりければ、\n、\n白露は消なば消ななむ消えずとて玉にぬくべき人もあら\nじを",
+    "type": "ページ",
+    "vol": 1,
+    "vol_str": "01 伊勢物語"
+}

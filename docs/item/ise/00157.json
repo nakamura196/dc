@@ -1,0 +1,45 @@
+{
+    "attribution": "新編 日本古典文学全集",
+    "label": [
+        "は",
+        "た、女、返し、",
+        "ゆく水に数かくよりもはかなきは思はぬ人を思ふなりけ",
+        "り",
+        "た、男、",
+        "ゆく水とすぐるよはひと散る花といづれ待ててふ言を聞",
+        "くらむ",
+        "だくらべ、かたみにしける男女の、忍び歩きしけることな",
+        "べし。",
+        "lt;五十一　菊&gt;",
+        "むかし、男、人の前栽に菊植ゑけるに、",
+        "植ゑし植ゑば秋なき時や咲かざらむ花こそ散らめ根さへ",
+        "枯れめや"
+    ],
+    "objectID": "00157",
+    "page": 157,
+    "related": {
+        "ndl_1288457": [
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/30",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000030/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 30,
+                "type": "コマ"
+            },
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/31",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000031/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 31,
+                "type": "コマ"
+            }
+        ]
+    },
+    "target": "ise",
+    "text": "は\nた、女、返し、\nゆく水に数かくよりもはかなきは思はぬ人を思ふなりけ\nり\nた、男、\nゆく水とすぐるよはひと散る花といづれ待ててふ言を聞\nくらむ\nだくらべ、かたみにしける男女の、忍び歩きしけることな\nべし。\nlt;五十一　菊&gt;\nむかし、男、人の前栽に菊植ゑけるに、\n植ゑし植ゑば秋なき時や咲かざらむ花こそ散らめ根さへ\n枯れめや",
+    "type": "ページ",
+    "vol": 1,
+    "vol_str": "01 伊勢物語"
+}

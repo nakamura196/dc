@@ -1,0 +1,45 @@
+{
+    "attribution": "新編 日本古典文学全集",
+    "label": [
+        "。",
+        "lt;六十一　染河&gt;",
+        "むかし、男、筑紫までいきたりけるに、「これは、色好む",
+        "いふすき者」と、すだれのうちなる人のいひけるを、聞き",
+        "、",
+        "染河を渡らむ人のいかでかは色になるてふことのなから",
+        "む",
+        "、返し、",
+        "名にしおはばあだにぞあるべきたはれ島浪のぬれぎぬ着",
+        "るといふなり",
+        "lt;六十二　こけるから&gt;",
+        "むかし、年ごろ訪れざりける女、心かしこくやあらざりけ",
+        "、はかなき人の言につきて、人の国なりける人につかはれ"
+    ],
+    "objectID": "00163",
+    "page": 163,
+    "related": {
+        "ndl_1288457": [
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/26",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000026/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 26,
+                "type": "コマ"
+            },
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/27",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000027/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 27,
+                "type": "コマ"
+            }
+        ]
+    },
+    "target": "ise",
+    "text": "。\nlt;六十一　染河&gt;\nむかし、男、筑紫までいきたりけるに、「これは、色好む\nいふすき者」と、すだれのうちなる人のいひけるを、聞き\n、\n染河を渡らむ人のいかでかは色になるてふことのなから\nむ\n、返し、\n名にしおはばあだにぞあるべきたはれ島浪のぬれぎぬ着\nるといふなり\nlt;六十二　こけるから&gt;\nむかし、年ごろ訪れざりける女、心かしこくやあらざりけ\n、はかなき人の言につきて、人の国なりける人につかはれ",
+    "type": "ページ",
+    "vol": 1,
+    "vol_str": "01 伊勢物語"
+}

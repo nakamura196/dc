@@ -1,0 +1,46 @@
+{
+    "attribution": "新編 日本古典文学全集",
+    "label": [
+        "なまし",
+        "たまた、ありしよりけにいひかはして、男、",
+        "忘るらむと思ふ心のうたがひにありしよりけにものぞ悲",
+        "しき",
+        "し、",
+        "中空にたちゐる雲のあともなく身のはかなくもなりにけ",
+        "るかな",
+        "はいひけれど、おのが世々になりにければ、うとくなりに",
+        "り。",
+        "lt;二十二　千夜を一夜&gt;",
+        "むかし、はかなくて絶えにける仲、なほや忘れざりけむ、",
+        "のもとより、",
+        "憂きながら人をばえしも忘れねばかつ恨みつつなほぞ恋",
+        "しき"
+    ],
+    "objectID": "00134",
+    "page": 134,
+    "related": {
+        "ndl_1288457": [
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/30",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000030/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 30,
+                "type": "コマ"
+            },
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/31",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000031/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 31,
+                "type": "コマ"
+            }
+        ]
+    },
+    "target": "ise",
+    "text": "なまし\nたまた、ありしよりけにいひかはして、男、\n忘るらむと思ふ心のうたがひにありしよりけにものぞ悲\nしき\nし、\n中空にたちゐる雲のあともなく身のはかなくもなりにけ\nるかな\nはいひけれど、おのが世々になりにければ、うとくなりに\nり。\nlt;二十二　千夜を一夜&gt;\nむかし、はかなくて絶えにける仲、なほや忘れざりけむ、\nのもとより、\n憂きながら人をばえしも忘れねばかつ恨みつつなほぞ恋\nしき",
+    "type": "ページ",
+    "vol": 1,
+    "vol_str": "01 伊勢物語"
+}

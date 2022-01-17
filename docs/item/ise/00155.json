@@ -1,0 +1,45 @@
+{
+    "attribution": "新編 日本古典文学全集",
+    "label": [
+        "る。",
+        "大幣の引く手あまたになりぬれば思へどえこそ頼まざり",
+        "けれ",
+        "し、男、",
+        "大幣と名にこそ立てれ流れてもつひによる瀬はありとい",
+        "ふものを",
+        "lt;四十八　人待たむ里&gt;",
+        "むかし、男ありけり。馬のはなむけせむとて、人を待ちけ",
+        "に、来ざりければ、",
+        "いまぞしるくるしきものと人待たむ里をば離れずとふべ",
+        "かりけり",
+        "lt;四十九　若草&gt;",
+        "むかし、男、妹のいとをかしげなりけるを見をりて、"
+    ],
+    "objectID": "00155",
+    "page": 155,
+    "related": {
+        "ndl_1288457": [
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/52",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000052/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 52,
+                "type": "コマ"
+            },
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/53",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000053/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 53,
+                "type": "コマ"
+            }
+        ]
+    },
+    "target": "ise",
+    "text": "る。\n大幣の引く手あまたになりぬれば思へどえこそ頼まざり\nけれ\nし、男、\n大幣と名にこそ立てれ流れてもつひによる瀬はありとい\nふものを\nlt;四十八　人待たむ里&gt;\nむかし、男ありけり。馬のはなむけせむとて、人を待ちけ\nに、来ざりければ、\nいまぞしるくるしきものと人待たむ里をば離れずとふべ\nかりけり\nlt;四十九　若草&gt;\nむかし、男、妹のいとをかしげなりけるを見をりて、",
+    "type": "ページ",
+    "vol": 1,
+    "vol_str": "01 伊勢物語"
+}

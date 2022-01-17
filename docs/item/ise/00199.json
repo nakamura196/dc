@@ -1,0 +1,44 @@
+{
+    "attribution": "新編 日本古典文学全集",
+    "label": [
+        "むかし、堀河のおほいまうちぎみと申す、いまそがりけり。",
+        "十の賀、九条の家にてせられける日、中将なりけるおきな、",
+        "桜花散りかひ曇れ老いらくの来むといふなる道まがふ",
+        "がに",
+        "lt;九十八　梅の造り枝&gt;",
+        "むかし、おほきおほいまうちぎみと聞ゆる、おはしけり。",
+        "うまつる男、九月ばかりに、梅の造り枝に雉をつけて奉る",
+        "て、",
+        "わが頼む君がためにと折る花はときしもわかぬものにぞ",
+        "ありける",
+        "よみて奉りたりければ、いとかしこくをかしがりたまひて、",
+        "に禄たまへりけり。"
+    ],
+    "objectID": "00199",
+    "page": 199,
+    "related": {
+        "ndl_1288457": [
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/2",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000002/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 2,
+                "type": "コマ"
+            },
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/3",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000003/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 3,
+                "type": "コマ"
+            }
+        ]
+    },
+    "target": "ise",
+    "text": "むかし、堀河のおほいまうちぎみと申す、いまそがりけり。\n十の賀、九条の家にてせられける日、中将なりけるおきな、\n桜花散りかひ曇れ老いらくの来むといふなる道まがふ\nがに\nlt;九十八　梅の造り枝&gt;\nむかし、おほきおほいまうちぎみと聞ゆる、おはしけり。\nうまつる男、九月ばかりに、梅の造り枝に雉をつけて奉る\nて、\nわが頼む君がためにと折る花はときしもわかぬものにぞ\nありける\nよみて奉りたりければ、いとかしこくをかしがりたまひて、\nに禄たまへりけり。",
+    "type": "ページ",
+    "vol": 1,
+    "vol_str": "01 伊勢物語"
+}

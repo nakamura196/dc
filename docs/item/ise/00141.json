@@ -1,0 +1,45 @@
+{
+    "attribution": "新編 日本古典文学全集",
+    "label": [
+        "思ほえず袖にみなとのさわぐかなもろこし船のよりしば",
+        "かりに",
+        "lt;二十七　たらひの影&gt;",
+        "むかし、男、女のもとに一夜いきて、またもいかずなりに",
+        "れば、女の、手洗ふ所に、貫簀をうちやりて、たらひのか",
+        "に見えけるを、みづから、",
+        "わればかりもの思ふ人はまたもあらじと思へば水の下に",
+        "もありけり",
+        "よむを、来ざりける男、たち聞き",
+        "、",
+        "みなくちにわれや見ゆらむかは",
+        "づさへ水の下にてもろ声に鳴く",
+        "く"
+    ],
+    "objectID": "00141",
+    "page": 141,
+    "related": {
+        "ndl_1288457": [
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/39",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000039/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 39,
+                "type": "コマ"
+            },
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/40",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000040/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 40,
+                "type": "コマ"
+            }
+        ]
+    },
+    "target": "ise",
+    "text": "思ほえず袖にみなとのさわぐかなもろこし船のよりしば\nかりに\nlt;二十七　たらひの影&gt;\nむかし、男、女のもとに一夜いきて、またもいかずなりに\nれば、女の、手洗ふ所に、貫簀をうちやりて、たらひのか\nに見えけるを、みづから、\nわればかりもの思ふ人はまたもあらじと思へば水の下に\nもありけり\nよむを、来ざりける男、たち聞き\n、\nみなくちにわれや見ゆらむかは\nづさへ水の下にてもろ声に鳴く\nく",
+    "type": "ページ",
+    "vol": 1,
+    "vol_str": "01 伊勢物語"
+}

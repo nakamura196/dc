@@ -1,0 +1,45 @@
+{
+    "attribution": "新編 日本古典文学全集",
+    "label": [
+        "てぬめる",
+        "書きて、そこにいたづらになりにけり。",
+        "lt;二十五　逢はで寝る夜&gt;",
+        "むかし、男ありけり。あはじともいはざりける女の、さす",
+        "なりけるがもとに、いひやりける。",
+        "秋の野にささわけし朝の袖よりもあはで寝る夜ぞひちま",
+        "さりける",
+        "好みなる女、返し、",
+        "みるめなきわが身をうらとしらねばや離れなで海人の足",
+        "たゆく来る",
+        "lt;二十六　もろこし船&gt;",
+        "むかし、男、五条わたりなりける女を、え得ずなりにける",
+        "ととわびたりける、人の返りごとに、"
+    ],
+    "objectID": "00140",
+    "page": 140,
+    "related": {
+        "ndl_1288457": [
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/38",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000038/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 38,
+                "type": "コマ"
+            },
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/39",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000039/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 39,
+                "type": "コマ"
+            }
+        ]
+    },
+    "target": "ise",
+    "text": "てぬめる\n書きて、そこにいたづらになりにけり。\nlt;二十五　逢はで寝る夜&gt;\nむかし、男ありけり。あはじともいはざりける女の、さす\nなりけるがもとに、いひやりける。\n秋の野にささわけし朝の袖よりもあはで寝る夜ぞひちま\nさりける\n好みなる女、返し、\nみるめなきわが身をうらとしらねばや離れなで海人の足\nたゆく来る\nlt;二十六　もろこし船&gt;\nむかし、男、五条わたりなりける女を、え得ずなりにける\nととわびたりける、人の返りごとに、",
+    "type": "ページ",
+    "vol": 1,
+    "vol_str": "01 伊勢物語"
+}

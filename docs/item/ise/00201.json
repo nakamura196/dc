@@ -1,0 +1,46 @@
+{
+    "attribution": "新編 日本古典文学全集",
+    "label": [
+        "せたまへりければ、たまはりて、",
+        "忘れ草おふる野辺とは見るらめどこはしのぶなりのちも",
+        "頼まむ",
+        "lt;百一　あやしき藤の花&gt;",
+        "むかし、左兵衛の督なりける在原の行平といふありけり。",
+        "の人の家によき酒ありと聞きて、上にありける左中弁藤原",
+        "良近といふをなむ、まらうどざねにて、その日はあるじま",
+        "けしたりける。なさけある",
+        "にて、かめに花をさせり。",
+        "の花のなかに、あやしき藤",
+        "花ありけり。花のしなひ",
+        "尺六寸ばかりなむありける。",
+        "れを題にてよむ。よみはて",
+        "たに、あるじのはらからな"
+    ],
+    "objectID": "00201",
+    "page": 201,
+    "related": {
+        "ndl_1288457": [
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/15",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000015/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 15,
+                "type": "コマ"
+            },
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/16",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000016/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 16,
+                "type": "コマ"
+            }
+        ]
+    },
+    "target": "ise",
+    "text": "せたまへりければ、たまはりて、\n忘れ草おふる野辺とは見るらめどこはしのぶなりのちも\n頼まむ\nlt;百一　あやしき藤の花&gt;\nむかし、左兵衛の督なりける在原の行平といふありけり。\nの人の家によき酒ありと聞きて、上にありける左中弁藤原\n良近といふをなむ、まらうどざねにて、その日はあるじま\nけしたりける。なさけある\nにて、かめに花をさせり。\nの花のなかに、あやしき藤\n花ありけり。花のしなひ\n尺六寸ばかりなむありける。\nれを題にてよむ。よみはて\nたに、あるじのはらからな",
+    "type": "ページ",
+    "vol": 1,
+    "vol_str": "01 伊勢物語"
+}

@@ -1,0 +1,44 @@
+{
+    "attribution": "新編 日本古典文学全集",
+    "label": [
+        "lt;七十二　大淀の松&gt;",
+        "むかし、男、伊勢の国なりける女、またえあはで、となり",
+        "国へいくとて、いみじう恨みければ、女、",
+        "大淀の松はつらくもあらなくにうらみてのみもかへる浪",
+        "かな",
+        "lt;七十三　月のうちの桂&gt;",
+        "むかし、そこにはありと聞けど、消息をだにいふべくもあ",
+        "ぬ女のあたりを思ひける。",
+        "目には見て手にはとられぬ月のうちの桂のごとき君にぞ",
+        "ありける",
+        "lt;七十四　重なる山&gt;",
+        "むかし、男、女をいたう恨みて、"
+    ],
+    "objectID": "00176",
+    "page": 176,
+    "related": {
+        "ndl_1288457": [
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/13",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000013/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 13,
+                "type": "コマ"
+            },
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/14",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000014/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 14,
+                "type": "コマ"
+            }
+        ]
+    },
+    "target": "ise",
+    "text": "lt;七十二　大淀の松&gt;\nむかし、男、伊勢の国なりける女、またえあはで、となり\n国へいくとて、いみじう恨みければ、女、\n大淀の松はつらくもあらなくにうらみてのみもかへる浪\nかな\nlt;七十三　月のうちの桂&gt;\nむかし、そこにはありと聞けど、消息をだにいふべくもあ\nぬ女のあたりを思ひける。\n目には見て手にはとられぬ月のうちの桂のごとき君にぞ\nありける\nlt;七十四　重なる山&gt;\nむかし、男、女をいたう恨みて、",
+    "type": "ページ",
+    "vol": 1,
+    "vol_str": "01 伊勢物語"
+}

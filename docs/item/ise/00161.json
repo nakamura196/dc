@@ -1,0 +1,46 @@
+{
+    "attribution": "新編 日本古典文学全集",
+    "label": [
+        "せぬ",
+        "いひて、この宮に集り来ゐてありければ、この男、",
+        "むぐら生ひて荒れたる宿のうれたきはかりにも鬼のすだ",
+        "くなりけり",
+        "てなむいだしたりける。この女ども、「穂ひろはむ」とい",
+        "ければ、",
+        "うちわびておち穂ひろふと聞かませばわれも田づらにゆ",
+        "かましものを",
+        "lt;五十九　東山&gt;",
+        "むかし、男、京をいかが思ひけむ、東山にすまむと思ひ入",
+        "て、",
+        "すみわびぬいまはかぎりと山里に身をかくすべき宿もと",
+        "めてむ",
+        "くて、ものいたく病みて、死に入りたりければ、おもてに"
+    ],
+    "objectID": "00161",
+    "page": 161,
+    "related": {
+        "ndl_1288457": [
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/44",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000044/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 44,
+                "type": "コマ"
+            },
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/45",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000045/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 45,
+                "type": "コマ"
+            }
+        ]
+    },
+    "target": "ise",
+    "text": "せぬ\nいひて、この宮に集り来ゐてありければ、この男、\nむぐら生ひて荒れたる宿のうれたきはかりにも鬼のすだ\nくなりけり\nてなむいだしたりける。この女ども、「穂ひろはむ」とい\nければ、\nうちわびておち穂ひろふと聞かませばわれも田づらにゆ\nかましものを\nlt;五十九　東山&gt;\nむかし、男、京をいかが思ひけむ、東山にすまむと思ひ入\nて、\nすみわびぬいまはかぎりと山里に身をかくすべき宿もと\nめてむ\nくて、ものいたく病みて、死に入りたりければ、おもてに",
+    "type": "ページ",
+    "vol": 1,
+    "vol_str": "01 伊勢物語"
+}

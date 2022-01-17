@@ -1,0 +1,45 @@
+{
+    "attribution": "新編 日本古典文学全集",
+    "label": [
+        "lt;五十七　恋ひわびぬ&gt;",
+        "むかし、男、人しれぬもの",
+        "ひけり。つれなき人のもと",
+        "、",
+        "恋ひわびぬあまの刈る藻にやどるてふわれから身をもく",
+        "だきつるかな",
+        "lt;五十八　荒れたる宿&gt;",
+        "むかし、心つきて色好みなる男、長岡といふ所に家つくり",
+        "をりけり。そこのとなりなりける宮ばらに、こともなき女",
+        "もの、ゐなかなりければ、田刈らむとて、この男のあるを",
+        "て、「いみじのすき者のしわざや」とて、集りて入り来け",
+        "ば、この男、逃げて奥にかくれにければ、女、",
+        "荒れにけりあはれいく世の宿なれやすみけむ人の訪れも"
+    ],
+    "objectID": "00160",
+    "page": 160,
+    "related": {
+        "ndl_1288457": [
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/19",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000019/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 19,
+                "type": "コマ"
+            },
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/20",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000020/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 20,
+                "type": "コマ"
+            }
+        ]
+    },
+    "target": "ise",
+    "text": "lt;五十七　恋ひわびぬ&gt;\nむかし、男、人しれぬもの\nひけり。つれなき人のもと\n、\n恋ひわびぬあまの刈る藻にやどるてふわれから身をもく\nだきつるかな\nlt;五十八　荒れたる宿&gt;\nむかし、心つきて色好みなる男、長岡といふ所に家つくり\nをりけり。そこのとなりなりける宮ばらに、こともなき女\nもの、ゐなかなりければ、田刈らむとて、この男のあるを\nて、「いみじのすき者のしわざや」とて、集りて入り来け\nば、この男、逃げて奥にかくれにければ、女、\n荒れにけりあはれいく世の宿なれやすみけむ人の訪れも",
+    "type": "ページ",
+    "vol": 1,
+    "vol_str": "01 伊勢物語"
+}

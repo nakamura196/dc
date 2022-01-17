@@ -1,0 +1,45 @@
+{
+    "attribution": "新編 日本古典文学全集",
+    "label": [
+        "lt;三十三　こもり江&gt;",
+        "むかし、男、津の国、菟原の郡に通ひける女、このたびい",
+        "ては、または来じと思へるけしきなれば、男、",
+        "あしべより満ちくるしほのいやましに君に心を思ひます",
+        "かな",
+        "し",
+        "こもり江に思ふ心をいかでかは舟さす棹のさしてしるべ",
+        "き",
+        "なか人の言にては、よしやあしや。",
+        "lt;三十四　つれなかりける人&gt;",
+        "むかし、男、つれなかりける人のもとに、",
+        "いへばえにいはねば胸にさわがれて心ひとつに嘆くころ",
+        "かな"
+    ],
+    "objectID": "00144",
+    "page": 144,
+    "related": {
+        "ndl_1288457": [
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/42",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000042/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 42,
+                "type": "コマ"
+            },
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/43",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000043/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 43,
+                "type": "コマ"
+            }
+        ]
+    },
+    "target": "ise",
+    "text": "lt;三十三　こもり江&gt;\nむかし、男、津の国、菟原の郡に通ひける女、このたびい\nては、または来じと思へるけしきなれば、男、\nあしべより満ちくるしほのいやましに君に心を思ひます\nかな\nし\nこもり江に思ふ心をいかでかは舟さす棹のさしてしるべ\nき\nなか人の言にては、よしやあしや。\nlt;三十四　つれなかりける人&gt;\nむかし、男、つれなかりける人のもとに、\nいへばえにいはねば胸にさわがれて心ひとつに嘆くころ\nかな",
+    "type": "ページ",
+    "vol": 1,
+    "vol_str": "01 伊勢物語"
+}

@@ -1,0 +1,44 @@
+{
+    "attribution": "新編 日本古典文学全集",
+    "label": [
+        "lt;百十九　形見&gt;",
+        "むかし、女の、あだなる男の形見とておきたる物どもを見",
+        "、",
+        "かたみこそいまはあたなれこれなくは忘るる時もあらま",
+        "しものを",
+        "lt;百二十　筑摩の祭&gt;",
+        "むかし、男、女のまだ世経ずとおぼえたるが、人の御もと",
+        "しのびてもの聞えて、のち、ほど経て、",
+        "近江なる筑摩の祭とくせなむつれなき人のなべのかず見",
+        "む",
+        "lt;百二十一　梅壼&gt;",
+        "むかし、男、梅壼より雨にぬれて、人のまかりいづるを見"
+    ],
+    "objectID": "00213",
+    "page": 213,
+    "related": {
+        "ndl_1288457": [
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/5",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000005/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 5,
+                "type": "コマ"
+            },
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/6",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000006/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
+                "page": 6,
+                "type": "コマ"
+            }
+        ]
+    },
+    "target": "ise",
+    "text": "lt;百十九　形見&gt;\nむかし、女の、あだなる男の形見とておきたる物どもを見\n、\nかたみこそいまはあたなれこれなくは忘るる時もあらま\nしものを\nlt;百二十　筑摩の祭&gt;\nむかし、男、女のまだ世経ずとおぼえたるが、人の御もと\nしのびてもの聞えて、のち、ほど経て、\n近江なる筑摩の祭とくせなむつれなき人のなべのかず見\nむ\nlt;百二十一　梅壼&gt;\nむかし、男、梅壼より雨にぬれて、人のまかりいづるを見",
+    "type": "ページ",
+    "vol": 1,
+    "vol_str": "01 伊勢物語"
+}
