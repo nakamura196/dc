@@ -11,7 +11,8 @@
                 "manifest": "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00007189/manifest.json",
                 "page": 77,
                 "type": "コマ",
-                "vol": 1
+                "vol": 1,
+                "work": "伊勢物語"
             },
             {
                 "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00007189/page399580",
@@ -20,7 +21,8 @@
                 "manifest": "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00007189/manifest.json",
                 "page": 78,
                 "type": "コマ",
-                "vol": 1
+                "vol": 1,
+                "work": "伊勢物語"
             }
         ],
         "kyoto_rb00007993": [
@@ -31,7 +33,8 @@
                 "manifest": "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00007993/manifest.json",
                 "page": 1,
                 "type": "コマ",
-                "vol": 1
+                "vol": 1,
+                "work": "伊勢物語"
             },
             {
                 "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00007993/page405550",
@@ -40,7 +43,8 @@
                 "manifest": "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00007993/manifest.json",
                 "page": 2,
                 "type": "コマ",
-                "vol": 1
+                "vol": 1,
+                "work": "伊勢物語"
             }
         ],
         "ndl_1287033": [
@@ -51,7 +55,8 @@
                 "manifest": "https://www.dl.ndl.go.jp/api/iiif/1288256/manifest.json",
                 "page": 33,
                 "type": "コマ",
-                "vol": 1
+                "vol": 1,
+                "work": "伊勢物語. 〔上巻〕"
             },
             {
                 "canvas": "https://www.dl.ndl.go.jp/api/iiif/1288256/canvas/34",
@@ -60,7 +65,8 @@
                 "manifest": "https://www.dl.ndl.go.jp/api/iiif/1288256/manifest.json",
                 "page": 34,
                 "type": "コマ",
-                "vol": 1
+                "vol": 1,
+                "work": "伊勢物語. 〔上巻〕"
             }
         ],
         "ndl_1288457": [
@@ -71,7 +77,8 @@
                 "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
                 "page": 7,
                 "type": "コマ",
-                "vol": 1
+                "vol": 1,
+                "work": "伊勢物語. 上"
             },
             {
                 "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/8",
@@ -80,7 +87,8 @@
                 "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
                 "page": 8,
                 "type": "コマ",
-                "vol": 1
+                "vol": 1,
+                "work": "伊勢物語. 上"
             }
         ],
         "ndl_2606187": [
@@ -91,7 +99,8 @@
                 "manifest": "https://www.dl.ndl.go.jp/api/iiif/2550606/manifest.json",
                 "page": 41,
                 "type": "コマ",
-                "vol": 1
+                "vol": 1,
+                "work": "伊勢物語 2巻. [1]"
             },
             {
                 "canvas": "https://www.dl.ndl.go.jp/api/iiif/2550606/canvas/42",
@@ -100,7 +109,8 @@
                 "manifest": "https://www.dl.ndl.go.jp/api/iiif/2550606/manifest.json",
                 "page": 42,
                 "type": "コマ",
-                "vol": 1
+                "vol": 1,
+                "work": "伊勢物語 2巻. [1]"
             }
         ],
         "ndl_2607117": [
@@ -111,7 +121,8 @@
                 "manifest": "https://www.dl.ndl.go.jp/api/iiif/2546072/manifest.json",
                 "page": 31,
                 "type": "コマ",
-                "vol": 1
+                "vol": 1,
+                "work": "伊勢物語 2巻. [1]"
             },
             {
                 "canvas": "https://www.dl.ndl.go.jp/api/iiif/2546072/canvas/32",
@@ -120,7 +131,8 @@
                 "manifest": "https://www.dl.ndl.go.jp/api/iiif/2546072/manifest.json",
                 "page": 32,
                 "type": "コマ",
-                "vol": 1
+                "vol": 1,
+                "work": "伊勢物語 2巻. [1]"
             }
         ]
     },

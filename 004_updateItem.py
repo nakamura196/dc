@@ -174,7 +174,7 @@ for page in test:
         # print(obj)
         obj2 = {
             # "attribution" : obj["attribution"],
-            # "work": obj["work"],
+            "work": obj["work"],
             "manifest" : obj["manifest"],
             "canvas" : obj["canvas"],
             "page" : obj["page"],
