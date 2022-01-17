@@ -28,7 +28,6 @@ conf_vol = vol
 
 collection = "ise"
 
-
 target_path = "data/text/" + file_id + "/map.json"
 base_path = "data/base/{}.json".format(collection) 
 # file_id = id

@@ -181,7 +181,7 @@ for page in test:
             "type" : obj["type"],
             "image" : obj["image"],
             # "name" : obj["name"],
-            # "vol" : obj["vol"],
+            "vol" : obj["vol"],
             "curation" : 1
         }
 

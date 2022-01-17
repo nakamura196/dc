@@ -3,6 +3,66 @@
     "objectID": "00190",
     "page": 190,
     "related": {
+        "kyoto_rb00007189": [
+            {
+                "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00007189/page399569",
+                "curation": 1,
+                "image": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00007189/RB00007189_00067_0.ptif/full/200,/0/default.jpg",
+                "manifest": "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00007189/manifest.json",
+                "page": 67,
+                "type": "コマ",
+                "vol": 1
+            },
+            {
+                "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00007189/page399570",
+                "curation": 1,
+                "image": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00007189/RB00007189_00068_0.ptif/full/200,/0/default.jpg",
+                "manifest": "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00007189/manifest.json",
+                "page": 68,
+                "type": "コマ",
+                "vol": 1
+            }
+        ],
+        "kyoto_rb00007993": [
+            {
+                "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00007993/page405549",
+                "curation": 1,
+                "image": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00007993/RB00007993_00001_0.ptif/full/200,/0/default.jpg",
+                "manifest": "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00007993/manifest.json",
+                "page": 1,
+                "type": "コマ",
+                "vol": 1
+            },
+            {
+                "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00007993/page405550",
+                "curation": 1,
+                "image": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00007993/RB00007993_00002_0.ptif/full/200,/0/default.jpg",
+                "manifest": "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00007993/manifest.json",
+                "page": 2,
+                "type": "コマ",
+                "vol": 1
+            }
+        ],
+        "ndl_1287033": [
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1288256/canvas/38",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1288256/F0000038/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1288256/manifest.json",
+                "page": 38,
+                "type": "コマ",
+                "vol": 1
+            },
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/1288256/canvas/39",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/1288256/F0000039/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/1288256/manifest.json",
+                "page": 39,
+                "type": "コマ",
+                "vol": 1
+            }
+        ],
         "ndl_1288457": [
             {
                 "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/38",
@@ -10,7 +70,8 @@
                 "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000038/full/full/0/default.jpg",
                 "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
                 "page": 38,
-                "type": "コマ"
+                "type": "コマ",
+                "vol": 1
             },
             {
                 "canvas": "https://www.dl.ndl.go.jp/api/iiif/1287963/canvas/39",
@@ -18,7 +79,48 @@
                 "image": "https://www.dl.ndl.go.jp/api/iiif/1287963/F0000039/full/full/0/default.jpg",
                 "manifest": "https://www.dl.ndl.go.jp/api/iiif/1287963/manifest.json",
                 "page": 39,
-                "type": "コマ"
+                "type": "コマ",
+                "vol": 1
+            }
+        ],
+        "ndl_2606187": [
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/2550606/canvas/3",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/2550606/F0000003/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/2550606/manifest.json",
+                "page": 3,
+                "type": "コマ",
+                "vol": 1
+            },
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/2550606/canvas/4",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/2550606/F0000004/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/2550606/manifest.json",
+                "page": 4,
+                "type": "コマ",
+                "vol": 1
+            }
+        ],
+        "ndl_2607117": [
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/2546072/canvas/29",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/2546072/F0000029/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/2546072/manifest.json",
+                "page": 29,
+                "type": "コマ",
+                "vol": 1
+            },
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/2546072/canvas/30",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/2546072/F0000030/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/2546072/manifest.json",
+                "page": 30,
+                "type": "コマ",
+                "vol": 1
             }
         ]
     },

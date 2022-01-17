@@ -4,6 +4,7 @@ import requests
 import hashlib
 import json
 import gzip
+import os
 
 parser = argparse.ArgumentParser(description='このプログラムの説明（なくてもよい）')    # 2. パーサを作る
 
@@ -23,7 +24,7 @@ name = file_id # "name"  # args.name
 vol = int(file_id.split("-")[-1])
 
 root = "/Users/nakamurasatoru/git/d_hi_letter/yolov5-flask-kunshujo/docs/runs/model_codh"
-file_id = "ndl_1288457-01"
+# file_id = "ndl_1288457-01"
 
 vol = int(file_id.split("-")[-1])
 
@@ -132,8 +133,6 @@ for selection in selections:
   ######
 
   canvas_text_map = getCanvasTextMap(members)
-  
-  print(canvas_text_map)
 
   #####
   
@@ -185,7 +184,9 @@ for selection in selections:
       output.append(obj)
 
 # opath = root + "/output/" + file_id + "/map.json"
+
 opath = "data/text/{}/map.json".format(file_id)
+os.makedirs(os.path.dirname(opath), exist_ok=True)
 
 with open(opath, 'w') as outfile:
     json.dump(output, outfile, ensure_ascii=False,
