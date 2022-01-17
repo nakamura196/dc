@@ -5,6 +5,7 @@ from bs4 import BeautifulSoup
 import glob
 from tqdm import tqdm
 import json
+import copy
 
 collection = "ise"
 attribution = "新編 日本古典文学全集"
@@ -28,6 +29,7 @@ for key in df:
     map[page][line] = df[key]
 
 result = []
+result2 = []
 
 for page in map:
 
@@ -40,24 +42,32 @@ for page in map:
         label.append(map[page][line])
 
     obj = {
-        "label" : label,
         "page" : page,
         "type": "ページ",
         "vol_str" : "01 伊勢物語",
         "vol" : 1,
         "objectID" : str(page).zfill(5),
-        "text" : "\n".join(label),
         "target" : collection,
         "related" : {},
         "attribution" : attribution
      }
 
-    fw2 = open("data/item/{}/{}.json".format(collection, str(page).zfill(5)), 'w')
+    fw2 = open("docs/item/{}/{}.json".format(collection, str(page).zfill(5)), 'w')
     json.dump(obj, fw2, ensure_ascii=False, indent=4,
                 sort_keys=True, separators=(',', ': '))
 
+    obj2 = copy.deepcopy(obj)
+
+    obj2["label"] = label
+    obj2["text"] = "\n".join(label)
+
     result.append(obj)
+    result2.append(obj2)
 
 fw2 = open("data/base/{}.json".format(collection), 'w')
+json.dump(result2, fw2, ensure_ascii=False, indent=4,
+            sort_keys=True, separators=(',', ': '))
+
+fw2 = open("docs/base/{}.json".format(collection), 'w')
 json.dump(result, fw2, ensure_ascii=False, indent=4,
             sort_keys=True, separators=(',', ': '))

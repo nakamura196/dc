@@ -136,7 +136,7 @@ for page in test:
 
   page_f = str(page).zfill(5)
 
-  item_path = "data/item/" + collection + "/" + page_f +".json"
+  item_path = "docs/item/" + collection + "/" + page_f +".json"
 
   with open(item_path) as f:
     df = json.load(f)
