@@ -10,6 +10,7 @@ parser = argparse.ArgumentParser(description='このプログラムの説明（�
 
 # 3. parser.add_argumentで受け取る引数を追加していく
 parser.add_argument('id')
+parser.add_argument('collection')
 
 args = parser.parse_args()    # 4. 引数を解析
 
@@ -26,10 +27,10 @@ target = file_id.replace("-" + file_id.split("-")[-1], "")
 
 conf_vol = vol
 
-collection = "ise"
+collection = args.collection
 
 target_path = "data/text/" + file_id + "/map.json"
-base_path = "data/base/{}.json".format(collection) 
+base_path = "base/data/{}.json".format(collection) 
 # file_id = id
 
 map = {}

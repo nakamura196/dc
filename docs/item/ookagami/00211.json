@@ -1,0 +1,33 @@
+{
+    "attribution": "新編 日本古典文学全集",
+    "objectID": "00211",
+    "page": 211,
+    "related": {
+        "ndl_2606604": [
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/2544634/canvas/42",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/2544634/F0000042/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/2544634/manifest.json",
+                "page": 42,
+                "type": "コマ",
+                "vol": 1,
+                "work": "大鏡 6巻. [1]"
+            },
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/2544634/canvas/43",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/2544634/F0000043/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/2544634/manifest.json",
+                "page": 43,
+                "type": "コマ",
+                "vol": 1,
+                "work": "大鏡 6巻. [1]"
+            }
+        ]
+    },
+    "target": "ookagami",
+    "type": "ページ",
+    "vol": 1,
+    "vol_str": "01 伊勢物語"
+}

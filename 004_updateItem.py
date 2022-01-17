@@ -14,6 +14,7 @@ parser = argparse.ArgumentParser(description='このプログラムの説明（�
 
 # 3. parser.add_argumentで受け取る引数を追加していく
 parser.add_argument('id', help='foooo')
+parser.add_argument('collection')
 
 args = parser.parse_args()    # 4. 引数を解析
 
@@ -25,7 +26,7 @@ vol = int(file_id.split("-")[-1])
 
 target = file_id.replace("-" + file_id.split("-")[-1], "")
 
-collection = "ise"
+collection = args.collection
 
 canvas_list = None
 

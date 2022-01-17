@@ -3,6 +3,19 @@ import requests
 import os
 import shutil
 
+import argparse    # 1. argparseをインポート
+
+parser = argparse.ArgumentParser(description='このプログラムの説明（なくてもよい）')    # 2. パーサを作る
+
+# 3. parser.add_argumentで受け取る引数を追加していく
+parser.add_argument('id')
+parser.add_argument('collection')
+
+args = parser.parse_args()    # 4. 引数を解析
+
+id = args.id
+collection = args.collection
+
 '''
 
 import argparse    # 1. argparseをインポート
@@ -25,7 +38,7 @@ args = parser.parse_args()    # 4. 引数を解析
 
 '''
 
-id = "ise"
+# id = "ise"
 
 url = "https://script.google.com/macros/s/AKfycbybV8sJwAGwnJ5B4ll7C9bIWWWTg_nepAxmTVpz2vgfNUeehIJ1b1WIfj07FDCANgu-Cg/exec?sheet=main"
 
@@ -50,8 +63,8 @@ for item in df:
         # print("fid", file_id)
 
         lines.append("python 000_text.py '{}'".format(file_id))
-        lines.append("python 002_calc.py '{}'".format(file_id))
-        lines.append("python 004_updateItem.py '{}'".format(file_id))
+        lines.append("python 002_calc.py '{}' '{}'".format(file_id, collection))
+        lines.append("python 004_updateItem.py '{}' '{}'".format(file_id, collection))
 
 with open("main.sh", mode='w') as f:
   f.write("\n".join(lines))

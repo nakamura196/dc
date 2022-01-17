@@ -6,11 +6,22 @@ import glob
 from tqdm import tqdm
 import json
 import copy
+import json
+import argparse    # 1. argparseをインポート
 
-collection = "ise"
+
+parser = argparse.ArgumentParser(description='このプログラムの説明（なくてもよい）')    # 2. パーサを作る
+
+# 3. parser.add_argumentで受け取る引数を追加していく
+parser.add_argument('id')
+parser.add_argument('--padding', "-p", type=int, default=1)
+
+args = parser.parse_args()    # 4. 引数を解析
+
+collection = args.id
 attribution = "新編 日本古典文学全集"
 
-path = "data/{}.json".format(collection)
+path = "data/{}_merged.json".format(collection)
 
 with open(path) as f:
     df = json.load(f)
@@ -52,7 +63,10 @@ for page in map:
         "attribution" : attribution
      }
 
-    fw2 = open("docs/item/{}/{}.json".format(collection, str(page).zfill(5)), 'w')
+    path = "../docs/item/{}/{}.json".format(collection, str(page).zfill(5))
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+
+    fw2 = open(path, 'w')
     json.dump(obj, fw2, ensure_ascii=False, indent=4,
                 sort_keys=True, separators=(',', ': '))
 
@@ -64,10 +78,10 @@ for page in map:
     result.append(obj)
     result2.append(obj2)
 
-fw2 = open("data/base/{}.json".format(collection), 'w')
+fw2 = open("data/{}.json".format(collection), 'w')
 json.dump(result2, fw2, ensure_ascii=False, indent=4,
             sort_keys=True, separators=(',', ': '))
 
-fw2 = open("docs/base/{}.json".format(collection), 'w')
+fw2 = open("../docs/base/{}.json".format(collection), 'w')
 json.dump(result, fw2, ensure_ascii=False, indent=4,
             sort_keys=True, separators=(',', ': '))

@@ -115,9 +115,18 @@ def getCanvasTextMap(members):
 
   return canvas_text_map
 
+gzip_url = "https://github.com/nakamura196/kocr/blob/main/docs/runs/model_codh/output/{}/text.json.gzip?raw=true".format(file_id)
 
-path = root + "/output/{}/text.json.gzip".format(file_id)
-with gzip.open(path, 'r') as f:
+print("url", gzip_url)
+
+urlData = requests.get(gzip_url).content
+
+tmp_path = "tmp.gzip"
+
+with open(tmp_path ,mode='wb') as f: # wb でバイト型を書き込める
+  f.write(urlData)
+
+with gzip.open(tmp_path, 'r') as f:
   df = json.load(f)
 
 selections = df["selections"]
