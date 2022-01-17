@@ -113,28 +113,6 @@
                 "work": "伊勢物語 2巻. [1]"
             }
         ],
-        "ndl_2606604": [
-            {
-                "canvas": "https://www.dl.ndl.go.jp/api/iiif/2544634/canvas/32",
-                "curation": 1,
-                "image": "https://www.dl.ndl.go.jp/api/iiif/2544634/F0000032/full/full/0/default.jpg",
-                "manifest": "https://www.dl.ndl.go.jp/api/iiif/2544634/manifest.json",
-                "page": 32,
-                "type": "コマ",
-                "vol": 1,
-                "work": "大鏡 6巻. [1]"
-            },
-            {
-                "canvas": "https://www.dl.ndl.go.jp/api/iiif/2544634/canvas/33",
-                "curation": 1,
-                "image": "https://www.dl.ndl.go.jp/api/iiif/2544634/F0000033/full/full/0/default.jpg",
-                "manifest": "https://www.dl.ndl.go.jp/api/iiif/2544634/manifest.json",
-                "page": 33,
-                "type": "コマ",
-                "vol": 1,
-                "work": "大鏡 6巻. [1]"
-            }
-        ],
         "ndl_2607117": [
             {
                 "canvas": "https://www.dl.ndl.go.jp/api/iiif/2546072/canvas/24",

@@ -1,0 +1,77 @@
+{
+    "attribution": "新編 日本古典文学全集",
+    "objectID": "00107",
+    "page": 107,
+    "related": {
+        "ndl_2605559": [
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/2544473/canvas/67",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/2544473/F0000067/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/2544473/manifest.json",
+                "page": 67,
+                "type": "コマ",
+                "vol": 1,
+                "work": "栄花物語 40巻. [1]"
+            },
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/2544473/canvas/68",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/2544473/F0000068/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/2544473/manifest.json",
+                "page": 68,
+                "type": "コマ",
+                "vol": 1,
+                "work": "栄花物語 40巻. [1]"
+            }
+        ],
+        "ndl_2608628": [
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/2569919/canvas/71",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/2569919/F0000071/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/2569919/manifest.json",
+                "page": 71,
+                "type": "コマ",
+                "vol": 1,
+                "work": "栄花物語 40巻. [1]"
+            },
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/2569919/canvas/72",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/2569919/F0000072/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/2569919/manifest.json",
+                "page": 72,
+                "type": "コマ",
+                "vol": 1,
+                "work": "栄花物語 40巻. [1]"
+            }
+        ],
+        "ndl_9893851": [
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/9893807/canvas/67",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/9893807/F0000067/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/9893807/manifest.json",
+                "page": 67,
+                "type": "コマ",
+                "vol": 1,
+                "work": "栄花物語 40巻. 一、二"
+            },
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/9893807/canvas/68",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/9893807/F0000068/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/9893807/manifest.json",
+                "page": 68,
+                "type": "コマ",
+                "vol": 1,
+                "work": "栄花物語 40巻. 一、二"
+            }
+        ]
+    },
+    "target": "eiga",
+    "type": "ページ",
+    "vol": 1,
+    "vol_str": "01 伊勢物語"
+}

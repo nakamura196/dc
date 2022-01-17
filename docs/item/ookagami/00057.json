@@ -24,6 +24,28 @@
                 "vol": 1,
                 "work": "大鏡 6巻. [1]"
             }
+        ],
+        "ndl_2606834": [
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/2546569/canvas/39",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/2546569/F0000039/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/2546569/manifest.json",
+                "page": 39,
+                "type": "コマ",
+                "vol": 1,
+                "work": "大鏡. [1]"
+            },
+            {
+                "canvas": "https://www.dl.ndl.go.jp/api/iiif/2546569/canvas/40",
+                "curation": 1,
+                "image": "https://www.dl.ndl.go.jp/api/iiif/2546569/F0000040/full/full/0/default.jpg",
+                "manifest": "https://www.dl.ndl.go.jp/api/iiif/2546569/manifest.json",
+                "page": 40,
+                "type": "コマ",
+                "vol": 1,
+                "work": "大鏡. [1]"
+            }
         ]
     },
     "target": "ookagami",
